@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Julian-Mejatsch
-- 👀 I’m interested in Coding, Graphics Programming (Kinda difficult)
+- 👀 I’m interested in Coding, Graphics Programming (kinda difficult)
 - 🌱 I’m currently learning C/C++
 
 <!---
