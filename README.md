@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C/C++
 
-[![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julian-Mejatsch)](https://github.com/anuraghazra/github-readme-stats)
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julian-Mejatsch&count_private=true&show_icons=true)
 
 
 <!---
