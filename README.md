@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julian-Mejatsch
+- 👋 Hi, I’m Julian
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C/C++
 
